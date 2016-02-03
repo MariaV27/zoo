@@ -1,0 +1,19 @@
+{
+  "name": "zoodb",
+  "version": "1.0.0",
+  "description": "zoo app using mysql and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaVintimilla/zoo.git"
+  },
+  "author": "Maria Vintimilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaVintimilla/zoo/issues"
+  },
+  "homepage": "https://github.com/MariaVintimilla/zoo#readme"
+}
